@@ -7,7 +7,7 @@
  
  
 # --- Configuration Variables (Edit These) ---
-BACKUP_URL="http://BACKUP_URL/backupexecutefull"
+BACKUP_URL="http://hostname/backupexecutefull"
 MAX_BACKUPS_TO_KEEP=15
 BACKUP_DIR_NAME="adsb-backups" # This folder will be created in your home directory if it doesn't exist
 # --- End Configuration ---
